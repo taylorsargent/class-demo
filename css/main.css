@@ -1,0 +1,47 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.masthead {
+  padding-top: 6em;
+  background-image: url("../images/logo.svg"), url("../images/masshead-bg.png");
+  background-size: 75px auto, 200px auto;
+  background-repeat: no-repeat, repeat;
+  background-position: center 10px, left top;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 0.5em;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.box {
+  background-color: #3b3a33;
+  padding: 1em;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5em 0.75em;
+  text-decoration: none;
+  color: white;
+  background-color: #a8ae98;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #a8ae98, #5b5e52)
+}
