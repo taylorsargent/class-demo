@@ -7,4 +7,4 @@ class demo on images
 - †	[Leaves of Plum](https://www.flickr.com/photos/halfrain/5078240448) from Flickr; © halfrain, CC BY-SA 3.0
 - †	[Gingko leaves, about 2 cm, on trunk](https://www.flickr.com/photos/martinlabar/3912111460) from Flickr; © Martin LaBar, CC BY-NC 3.0
 - †	[Tree](http://thenounproject.com/term/tree/42881/) from The Noun Project; © Nenad Radojcic, CC BY-SA 3.0
-†	[Green Cup](http://subtlepatterns.com/green-cup/) from Subtle Patterns; © Atle Mo, CC BY-SA 3.0
+- †	[Green Cup](http://subtlepatterns.com/green-cup/) from Subtle Patterns; © Atle Mo, CC BY-SA 3.0
